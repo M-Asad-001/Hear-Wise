@@ -389,13 +389,13 @@ npm start
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  1. User logs in → JWT token issued                    │
-│  2. Selects a game → Backend generates content via AI  │
-│  3. Audio generated on-the-fly (gTTS)                  │
-│  4. User answers → Auto-tested                         │
+│  1. User logs in → JWT token issued                     │
+│  2. Selects a game → Backend generates content via AI   │
+│  3. Audio generated on-the-fly (gTTS)                   │
+│  4. User answers → Auto-tested                          │
 │  5. Performance recorded (accuracy + RT + errors)       │
-│  6. Adaptive engine adjusts difficulty                 │
-│  7. Dashboard shows updated progress                   │
+│  6. Adaptive engine adjusts difficulty                  │
+│  7. Dashboard shows updated progress                    │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -414,7 +414,7 @@ npm start
 - [x] **Phase 5** — Admin panel + analytics
 - [x] **Phase 6** — PDF reports with charts
 - [x] **Phase 7** — Speech recognition + pronunciation scoring
-- [ ] **Phase 8** — Deployment (Render + Vercel)
+- [x] **Phase 8** — Deployment (Hugging Face)
 - [ ] **Phase 9** — ML-based adaptive engine (future)
 
 ---
