@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HearWise&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Adaptive%20Game-Based%20Auditory%20Listening%20Practice&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- LIVE TYPING BADGE -->
-<a href="https://github.com/Asad-Aziz-001">
+<a href="https://asad-aziz-hearwise.hf.space/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI-Powered+Auditory+Training;11+Games+%7C+Adaptive+Learning;Real-time+TTS+Audio+Generation;Personalized+Recommendations" 
        alt="Typing SVG" />
 </a>
